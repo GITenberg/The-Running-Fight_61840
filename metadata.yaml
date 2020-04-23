@@ -1,0 +1,39 @@
+_repo: The-Running-Fight_61840
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Fisher, Harrison
+    birthdate: 1875
+    deathdate: 1934
+    gutenberg_agent_id: '25149'
+    url: http://www.gutenberg.org/2009/agents/25149
+    wikipedia: https://en.wikipedia.org/wiki/Harrison_Fisher
+  - agent_name: Brehm, George
+    birthdate: 1878
+    deathdate: 1966
+    gutenberg_agent_id: '8472'
+    url: http://www.gutenberg.org/2009/agents/8472
+creator:
+  author:
+    agent_name: Osborne, William Hamilton
+    birthdate: 1873
+    deathdate: 1942
+    gutenberg_agent_id: '38164'
+    url: http://www.gutenberg.org/2009/agents/38164
+    wikipedia: https://en.wikipedia.org/wiki/William_Hamilton_Osborne
+description: ''
+gutenberg_issued: '2020-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61840'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Murder -- Investigation -- Fiction'
+- !lcc 'PS'
+- !lcsh 'United States -- Social life and customs -- 20th century -- Fiction'
+- GITenberg
+title: The Running Fight
+url: http://www.gutenberg.org/ebooks/61840
